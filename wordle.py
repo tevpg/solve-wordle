@@ -7,6 +7,8 @@
 2. this is a change made in newbranch A <---
 
 
+3. this is branch B change
+
 Other ways to get closer on a guess:
     - analyze most impactful (not just most probable) letters
         --> this helps make a good guess
